@@ -46,7 +46,7 @@ export const myProjects = [
     desc: 'A full-stack real-time chat application where users can connect instantly with modern UI and robust backend support.',
     subdesc:
       'Chatly features secure user authentication, real-time messaging, image/video sharing, online user indicators, and a clean responsive UI. Built with React.js, Redux Toolkit, Node.js, Express, MongoDB, Socket.io, Cloudinary, and Multer.',
-    href: 'https://chat-application-frontend-udje.onrender.com',
+    href: 'http://65.0.97.103:5174/',
     texture: '/textures/project/chat.mp4', // Add demo video path if available
     logo: '/assets/chatlogo.jpeg',
     logoStyle: {
@@ -78,7 +78,7 @@ export const myProjects = [
     desc: 'A fully functional real-time code collaboration platform, built with the MERN stack, featuring real-time synchronization, code execution, and collaborative drawing.',
     subdesc:
       'The app features real-time collaboration on code editing across multiple files, comprehensive language support, and syntax highlighting for various file types with auto-language detection. Users can create, open, edit, save, delete, and organize files and folders. It integrates code execution directly within the collaboration environment, ensuring instant updates and synchronization across all files. The platform also includes a user-friendly interface for real-time group chatting, notifications for user join and leave events, and an interactive user presence list.',
-    href: 'https://code-sync-frontend-mg64.onrender.com',
+    href: 'http://3.109.210.131:5173/',
     texture: '/textures/project/codesync-demo.mp4',
     logo: '/assets/CodeSync.png',
     logoStyle: {
